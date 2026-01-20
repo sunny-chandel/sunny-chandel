@@ -19,7 +19,7 @@
 ## About Me
 
 
-- I specialize in **designing, architecting, and deploying enterprise-grade AI Agent platforms and Retrieval-Augmented Generation (RAG) systems**, leveraging state-of-the-art foundation models such as **GPT-4o** and **Gemini 2.5 Pro**.
+- I specialize in **designing, architecting, and deploying enterprise-grade AI Agent platforms and Retrieval-Augmented Generation (RAG) systems**, leveraging state-of-the-art foundation models such as **GPT-5.2** and **Gemini 3 Pro**.
 - Proven experience building **scalable multi-agent orchestration frameworks** for **Fortune 500 enterprises** including **Nike** and **Ernst & Young**, with **production-grade deployments** on **Azure AKS** and **Google Cloud Platform**.
 - Currently leading development of **next-generation AI Agent platforms** using **Google ADK**, **LangGraph**, and **Microsoft Agents Framework**, with a strong focus on agent coordination, tool invocation, and safety-aware execution.
 - Deep expertise in **RAG architectures**, **retrieval optimization**, and **enterprise knowledge systems**, utilizing **vector databases** such as **Pinecone**, **ChromaDB**, **PGVector**, along with **Knowledge Graphs**.
