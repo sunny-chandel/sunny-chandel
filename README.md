@@ -203,6 +203,8 @@ I specialize in designing and deploying **enterprise-grade AI Agent platforms** 
 
 ### Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-chandel&bg_color=0d1117&color=BD93F9&line=F75C7E&point=FFFFFF&area=true&area_color=BD93F9&hide_border=true" alt="Contribution Graph" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunny-chandel/sunny-chandel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunny-chandel/sunny-chandel/output/github-snake.svg" />
