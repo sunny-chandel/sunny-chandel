@@ -142,6 +142,18 @@ I specialize in designing and deploying **enterprise-grade AI Agent platforms** 
 </tr>
 </table>
 
+### Open Source RAG & LLM Projects
+
+<div align="center">
+
+[![rag-pdf-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=sunny-chandel&repo=rag-pdf-chatbot&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/sunny-chandel/rag-pdf-chatbot)
+[![hybrid-rag-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=sunny-chandel&repo=hybrid-rag-pipeline&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/sunny-chandel/hybrid-rag-pipeline)
+
+[![multi-agent-research-assistant](https://github-readme-stats.vercel.app/api/pin/?username=sunny-chandel&repo=multi-agent-research-assistant&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/sunny-chandel/multi-agent-research-assistant)
+[![local-llm-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=sunny-chandel&repo=local-llm-chatbot&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/sunny-chandel/local-llm-chatbot)
+
+</div>
+
 ### Advanced AI & Research
 <table>
 <tr>
