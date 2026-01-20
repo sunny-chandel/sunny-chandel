@@ -18,12 +18,13 @@
 
 ## About Me
 
-I specialize in designing and deploying **enterprise-grade AI Agent platforms** and **RAG solutions** using state-of-the-art models like GPT-4o and Gemini 2.5 Pro. I've built multi-agent orchestration systems for Fortune 500 companies including **Nike** and **Ernst & Young**, with production deployments on Azure AKS and Google Cloud Platform.
 
-- Currently building AI Agent platforms with **Google ADK**, **LangGraph**, and **Microsoft Agents Framework**
-- Deep expertise in **RAG**, **Vector Databases** (Pinecone, ChromaDB, PGVector), and **Knowledge Graphs**
-- Cloud-native development across **Azure**, **AWS**, and **GCP**
-- Strong MLOps practices with Kubernetes, CI/CD, and observability
+- I specialize in **designing, architecting, and deploying enterprise-grade AI Agent platforms and Retrieval-Augmented Generation (RAG) systems**, leveraging state-of-the-art foundation models such as **GPT-4o** and **Gemini 2.5 Pro**.
+- Proven experience building **scalable multi-agent orchestration frameworks** for **Fortune 500 enterprises** including **Nike** and **Ernst & Young**, with **production-grade deployments** on **Azure AKS** and **Google Cloud Platform**.
+- Currently leading development of **next-generation AI Agent platforms** using **Google ADK**, **LangGraph**, and **Microsoft Agents Framework**, with a strong focus on agent coordination, tool invocation, and safety-aware execution.
+- Deep expertise in **RAG architectures**, **retrieval optimization**, and **enterprise knowledge systems**, utilizing **vector databases** such as **Pinecone**, **ChromaDB**, **PGVector**, along with **Knowledge Graphs**.
+- Strong background in **cloud-native, multi-cloud engineering** across **Azure**, **AWS**, and **GCP**, delivering secure, scalable, and cost-efficient AI systems.
+- Advanced **MLOps and platform engineering** capabilities, including **Kubernetes**, **CI/CD automation**, **model lifecycle management**, **monitoring**, and **observability** for production AI workloads.
 
 ---
 
