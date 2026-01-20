@@ -96,6 +96,7 @@ I specialize in designing and deploying **enterprise-grade AI Agent platforms** 
 
 ## Featured Projects
 
+### Enterprise AI Solutions
 <table>
 <tr>
 <td width="50%">
@@ -139,15 +140,98 @@ I specialize in designing and deploying **enterprise-grade AI Agent platforms** 
 <p>Production-deployed NL2SQL solution enabling non-technical users to query data using plain English. <strong>50% reduction</strong> in development time.</p>
 </td>
 </tr>
+</table>
+
+### Advanced AI & Research
+<table>
 <tr>
-<td width="50%" colspan="2">
-<h3 align="center">T-Discover - Report Similarity Engine</h3>
+<td width="50%">
+<h3 align="center">LLM Fine-Tuning Framework</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LoRA-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/QLoRA-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PEFT-FFD21E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square"/>
+</p>
+<p>End-to-end framework for fine-tuning LLMs using parameter-efficient methods (LoRA, QLoRA). Includes dataset preparation, training pipelines, and model evaluation with <strong>4-bit quantization</strong> for memory efficiency.</p>
+</td>
+<td width="50%">
+<h3 align="center">Hybrid RAG with Re-Ranking</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BM25-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ColBERT-EE4C2C?style=flat-square"/>
+</p>
+<p>Advanced RAG pipeline combining semantic search with BM25 keyword matching, cross-encoder re-ranking, and contextual compression. <strong>40% improvement</strong> in retrieval accuracy over vanilla RAG.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">GraphRAG - Knowledge Graph RAG</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+</p>
+<p>Knowledge Graph-enhanced RAG system with automatic entity extraction, relationship mapping, and graph-based retrieval. Enables complex multi-hop reasoning over interconnected documents.</p>
+</td>
+<td width="50%">
+<h3 align="center">Multi-Modal AI Assistant</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4V-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaVA-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CLIP-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Whisper-74AA9C?style=flat-square"/>
+</p>
+<p>Multi-modal assistant processing text, images, and audio inputs. Integrates vision-language models with speech recognition for unified understanding across modalities.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">LLM Evaluation Framework</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAGAS-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DeepEval-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangSmith-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+</p>
+<p>Comprehensive evaluation suite for LLM applications measuring faithfulness, relevancy, hallucination, and toxicity. Automated benchmarking with <strong>custom metrics</strong> for domain-specific assessment.</p>
+</td>
+<td width="50%">
+<h3 align="center">Autonomous AI Agents</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoGPT-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tool%20Use-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ReAct-009688?style=flat-square"/>
+</p>
+<p>Self-directed AI agents with tool use capabilities, memory systems, and goal decomposition. Implements ReAct prompting and chain-of-thought reasoning for complex task completion.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Embedding Model Training</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Contrastive%20Learning-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MTEB-FFD21E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</p>
+<p>Custom embedding model training using contrastive learning and hard negative mining. Domain-adapted models achieving <strong>15% higher</strong> retrieval scores on specialized corpora.</p>
+</td>
+<td width="50%">
+<h3 align="center">T-Discover - Similarity Engine</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-0078D4?style=flat-square"/>
   <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square"/>
 </p>
-<p align="center">Web application computing similarity scores between reports to reduce redundancy. <strong>75% reduction</strong> in solution delivery time and <strong>$100K+ revenue</strong> generation.</p>
+<p>Semantic similarity engine using transformer embeddings and approximate nearest neighbor search. <strong>75% reduction</strong> in delivery time and <strong>$100K+ revenue</strong>.</p>
 </td>
 </tr>
 </table>
