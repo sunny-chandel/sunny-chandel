@@ -1,63 +1,222 @@
-# Hi, I'm Sunny Chandel
+<div align="center">
 
-**Senior Data Scientist & Generative AI Engineer** with 6+ years of experience building production-grade GenAI and RAG solutions.
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sunny+Chandel" alt="Typing SVG" />
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&height=50&lines=Senior+Data+Scientist+%7C+Generative+AI+Engineer;Building+Enterprise+Multi-Agent+AI+Systems;6%2B+Years+of+Production+AI+Experience" alt="Typing SVG" />
 
-I specialize in designing and deploying intelligent multi-agent systems, leveraging state-of-the-art models like GPT-4o and Gemini 2.5 Pro. My work spans enterprise AI platforms, automated workflows, and end-to-end ML pipelines deployed on Azure, AWS, and GCP.
+<br/>
 
-## Tech Stack
+[![Email](https://img.shields.io/badge/Email-sunnychandel73%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnychandel73@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sunny--chandel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunny-chandel)
 
-**AI/ML & GenAI**
-```
-LLMs | RAG | Agentic AI | Multi-Agent Systems | Fine-tuning | RLHF | Prompt Engineering
-```
+<img src="https://komarev.com/ghpvc/?username=sunny-chandel&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
-**Frameworks & Tools**
-```
-LangChain | LangGraph | LlamaIndex | AutoGen | Google ADK | Microsoft Agents Framework
-```
-
-**Languages & Libraries**
-```
-Python | SQL | FastAPI | TensorFlow | PyTorch | JAX
-```
-
-**Cloud & Infrastructure**
-```
-Azure (AKS, OpenAI, Cognitive Services) | GCP (BigQuery, Vertex AI) | AWS (SageMaker, Lambda)
-```
-
-**Databases & Vector Stores**
-```
-PostgreSQL | CosmosDB | MongoDB | Pinecone | ChromaDB | Weaviate | pgvector
-```
-
-**MLOps & DevOps**
-```
-Docker | Kubernetes | GitHub Actions | MLflow | Kubeflow | CI/CD | GitOps
-```
-
-## Notable Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **AI Agent Platform** | Enterprise multi-agent orchestration system for autonomous AI agent creation | Google ADK, LangGraph, FastAPI, Redis, Kubernetes |
-| **Vision Flow** | AI-powered image data extraction pipeline with 95%+ accuracy | Azure OpenAI, Multi-agent architecture, AKS |
-| **QueryLens** | Natural language to BigQuery insights with Gemini | Streamlit, Gemini API, BigQuery |
-| **T-Discover** | Report similarity analyzer reducing solution delivery time by 75% | Flask, Python ML, Vector Search |
-
-## Experience
-
-- **Tech Mahindra Limited** - Senior Data Science & GenAI Engineer (2024-Present)
-- **Tredence Analytics** - Consultant, Data Science & Analytics (2022-2024)
-- **Tata Consultancy Services** - Jr. Data Scientist (2020-2022)
-
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-sunnychandel73%40gmail.com-red?style=flat-square&logo=gmail)](mailto:sunnychandel73@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sunny--chandel-black?style=flat-square&logo=github)](https://github.com/sunny-chandel)
+</div>
 
 ---
 
-*Building intelligent systems that scale*
+## About Me
+
+I specialize in designing and deploying **enterprise-grade AI Agent platforms** and **RAG solutions** using state-of-the-art models like GPT-4o and Gemini 2.5 Pro. I've built multi-agent orchestration systems for Fortune 500 companies including **Nike** and **Ernst & Young**, with production deployments on Azure AKS and Google Cloud Platform.
+
+- Currently building AI Agent platforms with **Google ADK**, **LangGraph**, and **Microsoft Agents Framework**
+- Deep expertise in **RAG**, **Vector Databases** (Pinecone, ChromaDB, PGVector), and **Knowledge Graphs**
+- Cloud-native development across **Azure**, **AWS**, and **GCP**
+- Strong MLOps practices with Kubernetes, CI/CD, and observability
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### AI/ML & GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+### Tools & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sunny-chandel&show_icons=true&count_private=true&hide_border=true&title_color=F75C7E&icon_color=BD93F9&text_color=c9d1d9&bg_color=0d1117" alt="Sunny Chandel's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-chandel&layout=compact&hide_border=true&title_color=F75C7E&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-chandel&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=F75C7E&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunny-chandel&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AI Agent Platform (Nike)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+</p>
+<p>Enterprise multi-agent orchestration system enabling developers to define AI agents in natural language, automatically generating production-ready scaffolds with Google ADK or Microsoft frameworks.</p>
+</td>
+<td width="50%">
+<h3 align="center">Enterprise Test Automation (EY)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square"/>
+</p>
+<p>Multi-agent system for automated functional specification enhancement, test case generation, and test script authoring using RAG and Knowledge Graphs.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Vision Flow - Image Extraction</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square"/>
+</p>
+<p>AI-powered pipeline for complex image-to-JSON extraction using multi-agent architecture with dynamic prompting. Achieved <strong>95%+ accuracy</strong> in structured data extraction.</p>
+</td>
+<td width="50%">
+<h3 align="center">QueryLens - NL2SQL</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+<p>Production-deployed NL2SQL solution enabling non-technical users to query data using plain English. <strong>50% reduction</strong> in development time.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+<h3 align="center">T-Discover - Report Similarity Engine</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square"/>
+</p>
+<p align="center">Web application computing similarity scores between reports to reduce redundancy. <strong>75% reduction</strong> in solution delivery time and <strong>$100K+ revenue</strong> generation.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## Work Experience
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  2024 - 2025  │  Senior Data Science & GenAI Engineer  │  Tech Mahindra    │
+│               │  Clients: Nike, Ernst & Young                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  2022 - 2024  │  Consultant (Data Science)             │  Tredence Analytics│
+│               │  Clients: 7-Eleven, Casey's                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  2020 - 2022  │  Assistant System Engineer             │  TCS               │
+│               │  Client: London Stock Exchange                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+![Coursera](https://img.shields.io/badge/Machine%20Learning-Stanford%20University-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Neural%20Networks%20%26%20Deep%20Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![NIIT](https://img.shields.io/badge/Data%20Science%20(AI)-NIIT%20Pune%20|%20Grade%20A+-orange?style=for-the-badge)
+![Udemy](https://img.shields.io/badge/AWS%20Cloud%20Computing-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sunnychandel73%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnychandel73@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sunny--chandel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunny-chandel)
+
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunny-chandel/sunny-chandel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunny-chandel/sunny-chandel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sunny-chandel/sunny-chandel/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>"Building intelligent systems that scale"</i>
+</div>
